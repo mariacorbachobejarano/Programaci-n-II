@@ -6,6 +6,7 @@
 import random
 import matplotlib.pyplot as plt
 
+
 def roll_two_dice():
     die1 = random.randint(1, 6)  # Roll the first die
     die2 = random.randint(1, 6)  # Roll the second die
