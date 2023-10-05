@@ -8,6 +8,8 @@ def main():
     max_number = 100
     max_attempts = 10
 
+    
+
     # Generate a random number for the player to guess
     secret_number = random.randint(min_number, max_number)
 
